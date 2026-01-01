@@ -52,11 +52,11 @@ I am a **Quality Assurance Engineer** with **9+ years of experience** in buildin
 
 ## 📌 What You'll Find Here
 
-✅ **Java + Selenium automation frameworks**
-✅ **Playwright test projects (UI & API)**
-✅ **REST API automation using Rest Assured**
-✅ **Dockerized test executions**
-✅ **Jenkins CI pipelines for automation**
+✅ **Java + Selenium automation frameworks**<br>
+✅ **Playwright test projects (UI & API)**<br>
+✅ **REST API automation using Rest Assured**<br>
+✅ **Dockerized test executions**<br>
+✅ **Jenkins CI pipelines for automation**<br>
 ✅ **Reusable utilities & best practices for QA**
 
 ---
@@ -78,8 +78,8 @@ I am a **Quality Assurance Engineer** with **9+ years of experience** in buildin
 
 > "Automation is not about replacing manual testing, it's about **freeing humans to think better**."
 
-✔️ Shift-left testing
-✔️ Stable & maintainable frameworks
+✔️ Shift-left testing<br>
+✔️ Stable & maintainable frameworks<br>
 ✔️ Meaningful assertions over blind coverage
 
 ---
