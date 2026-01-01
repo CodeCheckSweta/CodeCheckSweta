@@ -60,8 +60,7 @@ I am a **Quality Assurance Engineer** with **9+ years of experience** in buildin
 ✅ **Reusable utilities & best practices for QA**
 
 ---
-
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165" />
@@ -73,7 +72,7 @@ I am a **Quality Assurance Engineer** with **9+ years of experience** in buildin
 </p>
 
 ---
-
+-->
 ## 🧠 Testing Philosophy
 
 > "Automation is not about replacing manual testing, it's about **freeing humans to think better**."
