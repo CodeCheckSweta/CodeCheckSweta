@@ -10,8 +10,8 @@
 
 I am a **Quality Assurance Engineer** with **9+ years of experience** in building robust **test automation frameworks**, ensuring **high-quality software delivery**, and integrating testing into **CI/CD pipelines**.
 
-🔹 Passionate about **automation-first testing**, **clean frameworks**, and **shift-left QA**
-🔹 Experienced in **UI, API, and backend testing**
+🔹 Passionate about **automation-first testing**, **clean frameworks**, and **shift-left QA**<br>
+🔹 Experienced in **UI, API, and backend testing**<br>
 🔹 Strong believer in **quality as a culture, not a phase**
 
 ---
