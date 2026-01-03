@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sweta Singh
+# <h1 align="center">Hi 👋, I'm Sweta Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Test+Automation+Specialist;Java+%7C+Selenium+%7C+Playwright;API+Testing+%7C+CI%2FCD+%7C+Docker" />
@@ -52,23 +52,6 @@ I am a **Quality Assurance Engineer** with **9+ years of experience** in buildin
 ## 🏆 My LeetCode Stats
 <div style="display: flex; align-items: center;">
   <img src="https://leetcard.jacoblin.cool/swetasingh2203?theme=radical&font=Noto%20Sans%20Display" alt="LeetCode Stats" />
-
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeCheckSweta&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeCheckSweta&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCheckSweta&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/81c980de-9212-4fa9-a534-fd70a56b0793" alt="profile" style="width: 650px; height: auto;" />
-</div> -->
-
-
-
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anusha0501&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodeCheckSweta&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 ---
 
