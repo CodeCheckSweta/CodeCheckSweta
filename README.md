@@ -50,10 +50,12 @@ I am a **Quality Assurance Engineer** with **9+ years of experience** in buildin
 </p>
 
 ---
-## 🏆 My LeetCode Stats
+<!-- ## 🏆 My LeetCode Stats
 <div style="display: flex; align-items: center;">
   <img src="https://leetcard.jacoblin.cool/swetasingh2203?theme=radical&font=Noto%20Sans%20Display" alt="LeetCode Stats" />
-
+  -->
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CodeCheckSweta&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 ---
 
 ## 📌 What You'll Find Here
