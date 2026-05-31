@@ -68,19 +68,22 @@ I am a **Quality Assurance Engineer** with **9+ years of experience** in buildin
 ✅ **Reusable utilities & best practices for QA**
 
 ---
-<!--  ## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
+[![Sweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCheckSweta)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeCheckSweta&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCheckSweta&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCheckSweta&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 -->
+
 ## 🧠 Testing Philosophy
 
 > "Automation is not about replacing manual testing, it's about **freeing humans to think better**."
