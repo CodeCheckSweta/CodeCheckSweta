@@ -107,8 +107,3 @@ I am a **Quality Assurance Engineer** with **9+ years of experience** in buildin
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer" />
-</p>
-
-✨ *Always learning. Always improving quality.*
