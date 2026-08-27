@@ -9,12 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swetasingh22/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sweta.singh0322@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/swetasingh22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sweta.singh0322@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -54,7 +50,6 @@ I design and maintain **scalable, reliable, and maintainable automation framewor
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -62,7 +57,6 @@ I design and maintain **scalable, reliable, and maintainable automation framewor
 </p>
 
 ### 🧪 Test Automation & API Testing
-
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
@@ -73,7 +67,6 @@ I design and maintain **scalable, reliable, and maintainable automation framewor
 </p>
 
 ### ⚙️ CI/CD & DevOps
-
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -82,7 +75,6 @@ I design and maintain **scalable, reliable, and maintainable automation framewor
 </p>
 
 ### 🗄️ Database & Version Control
-
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -94,34 +86,34 @@ I design and maintain **scalable, reliable, and maintainable automation framewor
 ## ⭐ Featured Automation Projects
 
 ### 🔹 Phoenix In-Warranty Automation
-**API / workflow automation with Newman and CI/CD integration**
+**Postman API automation with Newman and GitHub Actions CI/CD**
 
-- Automated end-to-end in-warranty workflows
-- Postman collection-based API automation
-- Data-driven execution
-- Newman integration with CI pipelines
+- End-to-end in-warranty workflow automation
+- Data-driven API execution
+- Schema and token validation
 - Automated HTML reporting
+- GitHub Pages report publishing
 
 👉 [View Repository](https://github.com/CodeCheckSweta/Phoenix-Inwarranty-Flow)
 
 ### 🔹 Phoenix Test Automation Framework
-**Java-based automation framework**
+**Java + REST Assured + TestNG API automation framework**
 
-- Structured automation framework for scalable test execution
-- TestNG-based execution
-- Reusable automation components
-- CI/CD-ready architecture
+- Reusable request/response specifications
+- TestNG suite execution and grouping
+- JSON schema validation
+- Maven-based execution
 
 👉 [View Repository](https://github.com/CodeCheckSweta/PhoenixTestAutomationFramework)
 
 ### 🔹 Test Automation Framework
-**Reusable Java automation framework**
+**Java + Selenium + TestNG UI automation framework**
 
-- Page Object Model architecture
+- Page Object Model
 - Data-driven testing
-- Selenium WebDriver automation
-- TestNG execution
-- Reporting and reusable utilities
+- Parallel execution
+- LambdaTest cloud execution
+- ExtentReports and Log4j2
 
 👉 [View Repository](https://github.com/CodeCheckSweta/Test-Automation-Framework)
 
@@ -180,8 +172,6 @@ Continuous Improvement
 
 ## 📌 What You'll Find Here
 
-This profile contains practical examples of:
-
 - ☕ **Java automation frameworks**
 - 🎭 **Playwright automation**
 - 🌐 **REST API automation**
@@ -205,12 +195,15 @@ Good automation should provide **fast feedback, reliable results, maintainable c
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeCheckSweta&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCheckSweta&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeCheckSweta&show_icons=true&hide_border=true&theme=tokyonight" alt="Sweta's GitHub Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCheckSweta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCheckSweta&hide_border=true&theme=tokyonight" alt="Sweta's GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCheckSweta&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -218,12 +211,8 @@ Good automation should provide **fast feedback, reliable results, maintainable c
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/swetasingh22/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sweta.singh0322@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/swetasingh22/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sweta.singh0322@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
