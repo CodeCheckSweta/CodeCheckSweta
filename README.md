@@ -21,12 +21,12 @@ I am a **Senior QA Engineer / SDET** with **10+ years of experience** in softwar
 
 I design and maintain **scalable, reliable, and maintainable automation frameworks** across UI, API, and backend layers, with a strong focus on reducing regression effort and improving release confidence.
 
--🔹 Automation-first mindset with strong **shift-left testing** practices
--🔹 Experienced in **UI, API, integration, database, and backend testing**
--🔹 Hands-on experience building **Java and Playwright automation frameworks**
--🔹 CI/CD integration using **Jenkins, GitHub Actions, Docker, and Newman**
--🔹 Exploring **AI-assisted test automation and intelligent test generation**
--🔹 Strong focus on **clean code, reusable frameworks, and meaningful test coverage**
+- 🔹 Automation-first mindset with strong **shift-left testing** practices
+- 🔹 Experienced in **UI, API, integration, database, and backend testing**
+- 🔹 Hands-on experience building **Java and Playwright automation frameworks**
+- 🔹 CI/CD integration using **Jenkins, GitHub Actions, Docker, and Newman**
+- 🔹 Exploring **AI-assisted test automation and intelligent test generation**
+- 🔹 Strong focus on **clean code, reusable frameworks, and meaningful test coverage**
 
 ---
 
