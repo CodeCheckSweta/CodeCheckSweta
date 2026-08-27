@@ -195,15 +195,19 @@ Good automation should provide **fast feedback, reliable results, maintainable c
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeCheckSweta&show_icons=true&hide_border=true&theme=tokyonight" alt="Sweta's GitHub Stats" height="165" />
+  <a href="https://github.com/CodeCheckSweta?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+  </a>
+  <a href="https://github.com/CodeCheckSweta?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Stars" />
+  </a>
+  <a href="https://github.com/CodeCheckSweta/CodeCheckSweta/graphs/contributors">
+    <img src="https://img.shields.io/badge/Contribution%20Activity-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Contribution Activity" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCheckSweta&hide_border=true&theme=tokyonight" alt="Sweta's GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCheckSweta&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <strong>📈 See the contribution graph on my GitHub profile for live activity and contribution history.</strong>
 </p>
 
 ---
