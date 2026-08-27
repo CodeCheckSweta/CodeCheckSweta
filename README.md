@@ -192,26 +192,6 @@ Good automation should provide **fast feedback, reliable results, maintainable c
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/CodeCheckSweta?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
-  </a>
-  <a href="https://github.com/CodeCheckSweta?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Stars" />
-  </a>
-  <a href="https://github.com/CodeCheckSweta/CodeCheckSweta/graphs/contributors">
-    <img src="https://img.shields.io/badge/Contribution%20Activity-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Contribution Activity" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>📈 See the contribution graph on my GitHub profile for live activity and contribution history.</strong>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p>
